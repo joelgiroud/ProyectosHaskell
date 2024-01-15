@@ -1,0 +1,10 @@
+Haskell
+1. Escriba una funcion newtonRaphson que dada una función, su derivada y un punto inicial encuentre la raiz (x donde f(x) = 0) de la función.
+2. Escriba una función words que dada un texto lo divida en palabras
+
+Haskell Avanzado
+1. Defina un tipo de datos que guarde una fracción
+2. Defina las operaciones +;􀀀;; = para las fracciones que definió.
+
+Listas por comprehensión y comandos por guardia
+1. Escriba la función mergesort (ordenamiento por mezcla) utilizando comandos con guardia y/o listas por comprehensión.
